@@ -356,11 +356,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 16
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -1941,7 +1941,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6118413868729416212, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 156.6778
+      value: 170
       objectReference: {fileID: 0}
     - target: {fileID: 6118413868729416212, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1977,7 +1977,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6118413868729416212, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -442
+      value: -420
       objectReference: {fileID: 0}
     - target: {fileID: 6118413868729416212, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2001,11 +2001,11 @@ PrefabInstance:
       objectReference: {fileID: 12800000, guid: 3de886f573545d74c803d4ce0807a404, type: 3}
     - target: {fileID: 6118413868729416215, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 69
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 6118413868729416215, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 60
+      value: 66
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 414c995d0dbd2574499fbd056f38d94a, type: 3}
